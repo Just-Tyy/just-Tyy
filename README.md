@@ -113,7 +113,7 @@ Email
 
 LinkedIn
 
-https://linkedin.com/in/fatai-komolafe-23a1a322a
+https://linkedin.com/in/fataikomolafe
 
 GitHub
 
