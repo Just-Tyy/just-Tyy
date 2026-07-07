@@ -95,13 +95,12 @@ Docker • Git • GitHub • Streamlit
 
 ---
 
-## Currently Learning
+## Current Focus
 
-- AI Agents
-- MLOps
-- Cloud Infrastructure
-- Kubernetes
-- Production AI Systems
+- Building production-ready AI and Machine Learning systems
+- Developing scalable Retrieval-Augmented Generation (RAG) applications
+- Applying MLOps practices for reliable model deployment
+- Designing end-to-end data products using FastAPI, Docker, and modern Python tooling
 
 ---
 
