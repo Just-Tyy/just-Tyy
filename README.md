@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Building intelligent, production-ready data and AI systems that transform data into business solutions.
+Designing end-to-end data and AI systems that transform complex data into intelligent, production-ready solutions.
 </p>
 
 ---
