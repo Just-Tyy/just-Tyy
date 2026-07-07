@@ -109,7 +109,7 @@ Docker • Git • GitHub • Streamlit
 
 Email
 
-**fatai.komolafe@gmail.com**
+**fatai.abiodunkomolafe@gmail.com**
 
 LinkedIn
 
